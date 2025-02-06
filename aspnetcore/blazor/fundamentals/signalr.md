@@ -814,7 +814,7 @@ Blazor Web App:
 
 :::moniker-end
 
-:::moniker range=">= aspnetcore-8.0
+:::moniker range=">= aspnetcore-8.0"
 
 ```html
 <script src="{BLAZOR SCRIPT}" autostart="false"></script>
@@ -854,7 +854,7 @@ Blazor Server:
 
 :::moniker-end
 
-:::moniker range=">= aspnetcore-8.0
+:::moniker range=">= aspnetcore-8.0"
 
 **In the preceding example, the `{BLAZOR SCRIPT}` placeholder is the Blazor script path and file name.** For the location of the script and the path to use, see <xref:blazor/project-structure#location-of-the-blazor-script>.
 
